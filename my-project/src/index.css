@@ -1,0 +1,170 @@
+.Footer{
+  background-color: #294052;
+  color: #fff;
+  font-size: 1.4em;
+  text-align: center;
+  padding-top: 2%;
+  padding-bottom: 2%;
+}
+
+.Title{
+  margin-left: 10%;
+  font-size: 40px;
+  font-family: 'Monoton';
+}
+.Teste{
+  margin-left: 55%;
+}
+.Card{
+  border: none;
+  margin-top: 3%;
+}
+.Assunto{
+  margin-top: 1.5%;
+}
+.Nos{
+  font-size: 1.3em;
+}
+.Mapa{
+  width: 70%;
+  height: 300px;
+  margin-top: 2%;
+  margin-bottom: 4.8%;
+}
+.Text{
+  margin-top: 1.5%;
+  width: 100%;
+}
+.Button{
+  margin-left: 77%;
+  width: 23%;
+  height: 50px;
+  background-color: #294052;
+}
+
+.Img{
+  width: 100%;
+  height: 350px;
+}
+
+.TextQ{
+  font-size:1.45em;
+  text-align: justify;
+  margin-top: 1%;
+}
+.Somos2{
+  margin-top: 2%;
+  border: none;
+}
+.Somos22{
+  width: 70%;
+  margin-left: 14%;
+  border: none;
+}
+.Cardd{
+  text-align: center;
+  margin-top: 2.5%;
+}
+.ImagemC{
+  width: 25%;
+  margin-top: 3%;
+  margin-left: 36%;
+  
+}
+.TextInicial{
+  font-size: 1.5em;
+  text-align: center;
+  margin-top: 2%;
+  font-family: 'Pacifico' , cursive;
+}
+.BotaoI{
+  width: 10%;
+  margin-left: 45.5%;
+  height: 50px;
+  font-size: 1.8em;
+  margin-bottom: 1%;
+  background-color:  #294052;
+}
+
+.ImagemCA{
+  width: 100%;
+  height: 850px;
+}
+.Background{
+  width: 100%;
+  height: auto;
+}
+.Nav{
+  border: none;
+}
+.ImgCard{
+  width: 17%;
+  margin-left: 40%;
+  margin-top: 2%;
+}
+.Cardtitle{
+  text-align: center;
+  font-size: 30px;
+}
+.Cardd{
+  overflow: hidden;
+}
+.TextSomos{
+  font-size: 21px;
+}
+.PlanjamentoCard{
+ overflow: hidden;
+ margin-top: 5%;
+ width: 80%;
+ margin-left: 10%;
+ margin-bottom: 9.4%;
+}
+.PlanejamentoText{
+  font-size: 1.4em;
+}
+.PlanejamentoTitle{
+  margin-bottom: 2%;
+}
+.PlanjamentoImg{
+  width: 100%;
+  height: 345px;
+}
+
+.ContabilidadeText{
+  font-size: 1.4em;
+}
+.ContabilidadeTitle{
+  margin-bottom: 2%;
+}
+.ContabilidadeImg{
+  width: 100%;
+  height: 345px;
+}
+.Contabilidade{
+  overflow: hidden;
+  margin-top: 5%;
+  width: 80%;
+  margin-left: 10%;
+  margin-bottom: 9.4%;
+}
+
+.Consolidação{
+  overflow: hidden;
+  margin-top: 5%;
+  width: 80%;
+  margin-left: 10%;
+  margin-bottom: 9.4%;
+}
+.ConsolidaçãoImg{
+  width: 100%;
+  height: 345px
+}
+.ConsolidaçãoTitle{
+  margin-bottom: 2%;
+}
+.ConsolidaçãoText{
+  font-size: 1.4em;
+}
+.Texto{
+  text-align: center;
+}
